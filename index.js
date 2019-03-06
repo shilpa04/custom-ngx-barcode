@@ -7,7 +7,7 @@ var NgxBarcodeComponent = (function () {
      */
     function NgxBarcodeComponent(renderer) {
         this.renderer = renderer;
-        this.elementType = 'svg';
+        this.elementType = 'img';
         this.cssClass = 'barcode'; // this should be done more elegantly
         this.format = 'CODE128';
         this.lineColor = '#000000';
