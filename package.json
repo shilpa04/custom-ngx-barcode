@@ -1,12 +1,12 @@
 {
   "_args": [
     [
-      "custom-ngx-barcode@1.0.2",
+      "custom-ngx-barcode@1.0.3",
       "/home/stpl/LMSScratchBO"
     ]
   ],
-  "_from": "custom-ngx-barcode@1.0.2",
-  "_id": "custom-ngx-barcode@1.0.2",
+  "_from": "custom-ngx-barcode@1.0.3",
+  "_id": "custom-ngx-barcode@1.0.3",
   "_inBundle": false,
   "_integrity": "sha1-Zm4zfVnNctk7g27emkAr9dsI/6o=",
   "_location": "/custom-ngx-barcode",
@@ -14,17 +14,17 @@
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "custom-ngx-barcode@1.0.2",
+    "raw": "custom-ngx-barcode@1.0.3",
     "name": "custom-ngx-barcode",
     "escapedName": "custom-ngx-barcode",
-    "rawSpec": "1.0.2",
+    "rawSpec": "1.0.3",
     "saveSpec": null,
-    "fetchSpec": "1.0.2"
+    "fetchSpec": "1.0.3"
   },
   "_requiredBy": [
     "/"
   ],
-  "_spec": "1.0.2",
+  "_spec": "1.0.3",
   "_where": "/home/stpl/LMSScratchBO",
   "author": {
     "name": "Shilpa Nirankari"
@@ -55,5 +55,5 @@
     "url": "git+https://github.com/shilpa04/custom-ngx-barcode.git"
   },
   "typings": "ngx-barcode.d.ts",
-  "version": "1.0.2"
+  "version": "1.0.3"
 }
